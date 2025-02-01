@@ -1,1 +1,9 @@
-# Group-9-BSIT_2-1-TODO-App
+BSIT 2-1 PUP-SPC
+Free Elective
+
+Group 9
+Sevilla
+Ranchez
+Palec
+Apeta
+Bordeos
